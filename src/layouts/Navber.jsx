@@ -9,7 +9,7 @@ import Logo from '../assets/logo.png'
 
 const Navber = () => {
   return (
-    <nav className='bg-[#160C6D] py-5'>
+    <nav className='bg-[#160c6d80] py-5 absolute top-0 left-0 w-full '>
       <Container>
        <Flex className='items-center'>
            <div className='w-2/12'>
