@@ -21,7 +21,7 @@ export default {
         'container': '1170px',
       },
       backgroundImage: {
-        'banner': "url('./public/banner.png')",
+        'banner': "url('./assets/banner.png')",
         
       }
     },
