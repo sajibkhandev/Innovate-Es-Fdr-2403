@@ -29,10 +29,10 @@ const Gallary = () => {
             
             </Flex>
             <Flex className='justify-between pb-[100px]'>
-                <GallaryCard/>
-                <GallaryCard/>
-                <GallaryCard/>
-                <GallaryCard/>
+                <GallaryCard title="53k" text='Happy client'/>
+                <GallaryCard title="10k" text='Gets Award'/>
+                <GallaryCard title="120" text='Happy client'/>
+                <GallaryCard title="16" text='Gets Award'/>
             </Flex>
         </Container>
     </section>

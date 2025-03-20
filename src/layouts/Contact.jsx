@@ -12,10 +12,10 @@ const Contact = () => {
         <Container>
             <Flex>
                 <div className='w-7/12'>
-                <ContactList className='bg-white py-10 pl-7'/>
-                <ContactList className='py-3 px-7'/>
-                <ContactList className='py-3 px-7'/>
-                <ContactList className='py-3 px-7'/>
+                <ContactList contacttitle="We solve real-world problems through people and the web." className='bg-white py-10 pl-7'/>
+                <ContactList contacttitle="solve real-world problems through people and the web." className='py-3 px-7'/>
+                <ContactList contacttitle="real-world problems through people and the web." className='py-3 px-7'/>
+                <ContactList contacttitle="real-world problems through people and the web." className='py-3 px-7'/>
                 </div>
                 <div className='w-5/12'>
                 <Heading text='Why Choose Us'/>

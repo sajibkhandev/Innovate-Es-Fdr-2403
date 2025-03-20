@@ -11,6 +11,7 @@ export default {
         'secondary': '#1BBF00',
         'thrid': '#141135',
         'four': '#726E9E',
+        'five': '#F6F5FF',
       },
       fontFamily: {
         'open': ["Open Sans"],
