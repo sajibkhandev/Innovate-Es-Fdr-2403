@@ -7,7 +7,7 @@ import Flex from '../components/Flex'
 import IconOne from '../assets/serviceIcon1.png'
 import IconTwo from '../assets/serviceIcon2.png'
 
-const Service = () => {
+const ServiceLayout = () => {
   return (
     
     <section className='py-[100px] bg-five'>
@@ -33,4 +33,4 @@ const Service = () => {
   )
 }
 
-export default Service
+export default ServiceLayout
