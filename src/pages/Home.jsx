@@ -4,6 +4,7 @@ import Banner from '../layouts/Banner'
 import Gallary from '../layouts/Gallary'
 import Contact from '../layouts/Contact'
 import ServiceLayout from '../layouts/ServiceLayout'
+import Plan from '../layouts/Plan'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
         <Gallary/>
         <Contact/>
         <ServiceLayout/>
+        <Plan/>
 
     </div>
   )

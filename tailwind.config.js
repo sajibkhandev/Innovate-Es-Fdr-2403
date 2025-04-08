@@ -16,6 +16,7 @@ export default {
       fontFamily: {
         'open': ["Open Sans"],
         'paprika': ["Paprika"],
+        'nunito': ["Nunito"],
        
       },
       maxWidth: {
@@ -24,6 +25,9 @@ export default {
       backgroundImage: {
         'banner': "url('./assets/banner.png')",
         
+      },
+      spacing: {
+        '100': '100px',
       }
     },
   },
