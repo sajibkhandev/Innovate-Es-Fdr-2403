@@ -37,10 +37,10 @@ const AboutLayout = () => {
             </div>
 
 
-            <div className='absolute top-[520px] left-[480px] flex justify-center items-center w-[42px] h-[42px] bg-[#1BBF00] rounded-full'>
+            <div className='absolute top-[520px] left-[280px] flex justify-center items-center w-[42px] h-[42px] bg-[#1BBF00] rounded-full'>
                    <IoIosArrowBack className='text-white '/>
             </div>
-            <div className='absolute top-[520px] right-[550px] flex justify-center items-center w-[42px] h-[42px] bg-[#1BBF00] rounded-full'>
+            <div className='absolute top-[520px] right-[350px] flex justify-center items-center w-[42px] h-[42px] bg-[#1BBF00] rounded-full'>
                    <IoIosArrowForward className='text-white '/>
 
             </div>
