@@ -24,6 +24,7 @@ export default {
       },
       backgroundImage: {
         'banner': "url('./assets/banner.png')",
+        'aboutProfile': "url('./assets/aboutprofile.png')",
         
       },
       spacing: {
