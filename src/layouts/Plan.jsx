@@ -10,7 +10,7 @@ const Plan = () => {
    <section className='py-100 bg-[#F9F9FB]'>
        <Container>
         <Heading className='text-center pb-16' text="Choose The Right Plan"/>
-        <Flex className='justify-between'>
+        <Flex className='justify-between mx-3 md:mx-0 flex-wrap gap-y-6 md:gap-y-0'>
                 <PlanCard />
                 <PlanCard/>
                 <PlanCard />

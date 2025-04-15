@@ -28,7 +28,7 @@ const Gallary = () => {
               
             
             </Flex>
-            <Flex className='flex-wrap justify-between pb-[100px] gap-y-5 md:gap-y-0 px-3 md:px-0'>
+            <Flex className='flex-wrap justify-between pb-[100px] gap-y-5  md:gap-y-0 px-3 sm:px-5 md:px-0'>
                 <GallaryCard title="53k" text='Happy client'/>
                 <GallaryCard title="10k" text='Gets Award'/>
                 <GallaryCard title="120" text='Happy client'/>

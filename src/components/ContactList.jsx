@@ -8,9 +8,9 @@ const ContactList = ({className,contacttitle}) => {
  
   
   return (
-    <Flex className={`items-center gap-x-[37px] w-[568px] rounded-[12px] ${className}`}>
+    <Flex className={` items-center  gap-x-5 md:gap-x-[37px] w-[350px] sm:w-[450px] md:w-[568px] rounded-[12px] ${className}`}>
         <Image src={OnOff}/>
-        <SubHeading className='w-[319px]' text={contacttitle}/>
+        <SubHeading className='w-auto md:w-[319px] ' text={contacttitle}/>
 
     </Flex>
   )

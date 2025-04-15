@@ -12,10 +12,10 @@ const ServiceLayout = () => {
     
     <section className='py-[100px] bg-five'>
         <Container>
-            <Flex className='gap-[30px] flex-wrap'>
+            <Flex className='gap-[30px] flex-wrap px-3 md:px-0'>
             <div className='w-[370px] '>
-                <Heading text='What We Do'/>
-                <p className='w-[350px] pt-5 pb-[56px] text-[#6C7D93] text-lg font-open font-normal'>We are now a team of strategists, engineers, designers, and marketers who both use and develop technology </p>
+                <Heading className='text-[30px] md:text-[50px]' text='What We Do'/>
+                <p className='w-auto md:w-[350px] pt-5 pb-[56px] text-[#6C7D93] text-lg font-open font-normal'>We are now a team of strategists, engineers, designers, and marketers who both use and develop technology </p>
                 <Button text='Contact Us'/>
 
             </div>
